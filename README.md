@@ -1,6 +1,7 @@
 A simple project I created to understand the basic aspects of game development, including collision detection and physics simulation. <br>
 Created by: Chukwuemeka Nsolo <br>
-Contact: emekansolo@gmail.com
+Contact: emekansolo@gmail.com <br>
+Game Link: https://idev.games/game/bouncing-squares
 
 <b> Game Description: </b> <br>
 Squares are bouncing everywhere, but don't let them touch you!
