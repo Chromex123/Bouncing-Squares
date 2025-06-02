@@ -1,4 +1,6 @@
 A simple project I created to understand the basic aspects of game development, including collision detection and physics simulation.
+Created by: Chukwuemeka Nsolo
+Contact: emekansolo@gmail.com
 
 <b> Game Description: </b> <br>
 Squares are bouncing everywhere, but don't let them touch you!
